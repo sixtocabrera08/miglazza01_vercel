@@ -2,7 +2,7 @@
   "name": "proyecto",
   "version": "16.14.2",
   "description": "test_node_upload_to_vercel",
-  "main": "./app.js",
+  "main": "app.js",
   "engines": {
     "node": "14.x"
   },
